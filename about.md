@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Psychic
 
-### More Information
+### Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Trusted psychic
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+To Website
